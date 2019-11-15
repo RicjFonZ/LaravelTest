@@ -7,7 +7,7 @@ php:
   - 7.2
 
 addons:
-  mariadb: 10.4
+  MySQL
 
 cache:
   directories:
